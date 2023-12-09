@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test render snapshot 1`] = `
+<TextInput
+  placeholderTextColor="white"
+  style={
+    {
+      "backgroundColor": "#000",
+      "borderRadius": 70,
+      "color": "white",
+      "height": 60,
+      "marginVertical": 10,
+      "paddingHorizontal": 35,
+      "paddingVertical": 20,
+      "width": "70%",
+    }
+  }
+/>
+`;
